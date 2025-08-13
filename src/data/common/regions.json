@@ -17,12 +17,12 @@
   },
   "3k_dlc06_hangu_pass": {
     "key": "3k_dlc06_hangu_pass",
-    "name": "Hangu Pass",
+    "name": "函谷关",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_hangu_pass",
-      "name": "Hangu Pass"
+      "name": "函谷关"
     },
     "settlement": {
       "x": 1657,
@@ -33,12 +33,12 @@
   },
   "3k_dlc06_hedong_resource_2": {
     "key": "3k_dlc06_hedong_resource_2",
-    "name": "Pingyang",
+    "name": "平阳",
     "isCapital": false,
     "icon": "iron",
     "province": {
       "key": "3k_main_hedong_capital",
-      "name": "Hedong"
+      "name": "河东"
     },
     "settlement": {
       "x": 1601,
@@ -1270,7 +1270,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_hedong_capital",
-      "name": "Hedong"
+      "name": "河东"
     },
     "settlement": {
       "x": 1554,
@@ -1286,7 +1286,7 @@
     "icon": "trade_port",
     "province": {
       "key": "3k_main_hedong_capital",
-      "name": "Hedong"
+      "name": "河东"
     },
     "settlement": {
       "x": 1481,
