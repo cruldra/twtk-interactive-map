@@ -54,7 +54,7 @@ export function usePreloader(assets: string[]) {
 }
 
 function loadImage(path: string, onprogress: (e: any) => void) {
-  return new Promise((resolve) => {
+  return new Promise<void>((resolve) => {
     const request = new XMLHttpRequest();
     request.open('GET', path, true);
     request.responseType = 'blob';
