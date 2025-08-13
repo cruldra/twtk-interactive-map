@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, LinearProgress } from '@material-ui/core';
-import { usePreloader } from './preloader';
+import { usePreloader } from './preloader1';
 import assets from '../../../assets';
 
 type PreloaderProps = {
